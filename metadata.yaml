@@ -9,12 +9,17 @@ contributor:
     gutenberg_agent_id: '120'
     url: http://www.gutenberg.org/2009/agents/120
     wikipedia: https://en.wikipedia.org/wiki/Jack_London
+covers:
+- cover_type: archival
+  image_path: 75099-h/images/cover.jpg
 creator:
   author:
     agent_name: Umbstaetter, H. D.
     gutenberg_agent_id: '57825'
     url: http://www.gutenberg.org/2009/agents/57825
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/75099#The-red-hot-dollar-and-other-stories-from-the-Black-Cat
 gutenberg_issued: '2025-01-13'
 gutenberg_type: Text
 identifiers:
